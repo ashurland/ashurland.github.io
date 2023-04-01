@@ -4,6 +4,10 @@
 
 ### Learn About My Projects
 
+## Employee Attrition
+
+
+---
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
