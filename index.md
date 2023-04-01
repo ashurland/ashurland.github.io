@@ -4,8 +4,8 @@
 
 ### Learn About My Projects
 
-## Employee Attrition
-
+### [Employee Attrition](/EmployeeAttrition)
+<img src="images/Employee_Attrition_cover_photo.jpg?raw=true"/>
 
 ---
 #### [Internal Blog Post Project](/bank)
